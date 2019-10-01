@@ -6,8 +6,8 @@
         {
             "PlayerMaxSpeedOffset"
             {
-                "windows"    "506"
-                "linux"        "507"
+                "windows"    "504"
+                "linux"        "505"
             }
         }
     }
